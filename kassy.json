@@ -1,0 +1,5 @@
+{
+  "name": "gag",
+  "version": 1.0,
+  "startup": "gag.js"
+}
